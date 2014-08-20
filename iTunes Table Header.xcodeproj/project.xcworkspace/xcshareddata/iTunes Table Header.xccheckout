@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>F9CC5D8B-C82B-4643-A03F-157B583CAB2E</string>
+	<string>8C4A86F4-5F7F-40D2-B137-DD647E8E66E3</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iTunes Table Header</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>32A4B12F-B714-44A1-86C2-B87547F72D20</key>
-		<string>https://github.com/jonbrown21/iTunes-Table-Header.git</string>
+		<key>47E2C5B8-C872-4152-92A7-58F4A462C96F</key>
+		<string>https://github.com/mralexgray/Horizontal-Graph-Controller.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iTunes Table Header.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>32A4B12F-B714-44A1-86C2-B87547F72D20</key>
+		<key>47E2C5B8-C872-4152-92A7-58F4A462C96F</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jonbrown21/iTunes-Table-Header.git</string>
+	<string>https://github.com/mralexgray/Horizontal-Graph-Controller.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>32A4B12F-B714-44A1-86C2-B87547F72D20</string>
+	<string>47E2C5B8-C872-4152-92A7-58F4A462C96F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>32A4B12F-B714-44A1-86C2-B87547F72D20</string>
+			<string>47E2C5B8-C872-4152-92A7-58F4A462C96F</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iTunes-Table-Header</string>
+			<string>Horizontal-Graph-Controller</string>
 		</dict>
 	</array>
 </dict>
